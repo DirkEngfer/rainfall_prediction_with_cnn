@@ -1,5 +1,7 @@
 Terms and Conditions:
 
+The following terms and conditions are true for data that is herein processed and initially stored to dailyrain.csv
+
 Met Éireann (The Irish Meteorological Service) retains Intellectual Property Rights and copyright over data (https://www.met.ie/climate/available-data/historical-data#).
 If data are published in raw or processed format Met Éireann must be acknowledged as the source.
 Met Éireann does not accept any liability whatsoever for any error or omission in the data series, their availability, or for any loss or damage arising from their use. 
